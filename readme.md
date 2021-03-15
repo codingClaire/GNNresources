@@ -2,7 +2,7 @@
 
 | Title | Year | Publication |  Materials  |BibTexRef|
 | :---: | :---------: | :--:| :-:|:---:|
-|Deep Learning on Graphs: A Survey|2020|TKDE| [PDF](https://arxiv.org/pdf/1812.04202.pdf)|[1]((##References))|
+|Deep Learning on Graphs: A Survey|2020|TKDE| [PDF](https://arxiv.org/pdf/1812.04202.pdf)|[1](#[1])|
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-## 4.Au
+## 4.Anomaly Detection
 
 
 
@@ -50,7 +50,7 @@
 
 ## References
 
-###### [1] 
+##### [1] 
 ```latex
 @article{zhang2020deep,
   title={Deep learning on graphs: A survey},
