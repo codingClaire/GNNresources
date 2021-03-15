@@ -2,7 +2,8 @@
 
 | Title | Year | Publication |  Materials  |BibTexRef|
 | :---: | :---------: | :--:| :-:|:---:|
-|Deep Learning on Graphs: A Survey|2020|TKDE| [PDF](https://arxiv.org/pdf/1812.04202.pdf)|[[1]](#1)|
+|Deep Learning on Graphs: A Survey|2020|TKDE| [PDF](https://arxiv.org/pdf/1812.04202.pdf)|[1](#1)|
+
 
 
 
